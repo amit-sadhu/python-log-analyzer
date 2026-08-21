@@ -1,0 +1,20 @@
+Aug 20 10:01:12 myserver sshd[1201]: Accepted password for adminuser from 192.168.1.10 port 52341 ssh2
+Aug 20 10:02:45 myserver sshd[1202]: Failed password for invalid user root from 10.0.0.55 port 43210 ssh2
+Aug 20 10:02:46 myserver sshd[1203]: Failed password for invalid user root from 10.0.0.55 port 43211 ssh2
+Aug 20 10:02:47 myserver sshd[1204]: Failed password for invalid user root from 10.0.0.55 port 43212 ssh2
+Aug 20 10:02:48 myserver sshd[1205]: Failed password for invalid user root from 10.0.0.55 port 43213 ssh2
+Aug 20 10:02:49 myserver sshd[1206]: Failed password for invalid user root from 10.0.0.55 port 43214 ssh2
+Aug 20 10:05:00 myserver sshd[1210]: Accepted publickey for devuser from 192.168.1.20 port 60001 ssh2
+Aug 20 10:10:33 myserver sshd[1215]: Failed password for invalid user admin from 203.0.113.42 port 22001 ssh2
+Aug 20 10:10:34 myserver sshd[1216]: Failed password for invalid user admin from 203.0.113.42 port 22002 ssh2
+Aug 20 10:10:35 myserver sshd[1217]: Failed password for invalid user admin from 203.0.113.42 port 22003 ssh2
+Aug 20 10:15:00 myserver sshd[1220]: Accepted password for backupuser from 192.168.1.30 port 55123 ssh2
+Aug 20 10:20:11 myserver sshd[1225]: Failed password for invalid user test from 198.51.100.7 port 30001 ssh2
+Aug 20 10:20:12 myserver sshd[1226]: Failed password for invalid user test from 198.51.100.7 port 30002 ssh2
+Aug 20 10:30:00 myserver sshd[1230]: Accepted publickey for adminuser from 192.168.1.10 port 52399 ssh2
+Aug 20 10:35:22 myserver sshd[1235]: Failed password for invalid user oracle from 10.0.0.55 port 43220 ssh2
+Aug 20 10:35:23 myserver sshd[1236]: Failed password for invalid user oracle from 10.0.0.55 port 43221 ssh2
+Aug 20 10:40:00 myserver sshd[1240]: Accepted password for devuser from 192.168.1.20 port 60050 ssh2
+Aug 20 10:45:01 myserver sshd[1245]: Failed password for invalid user ubuntu from 203.0.113.42 port 22010 ssh2
+Aug 20 10:45:02 myserver sshd[1246]: Failed password for invalid user ubuntu from 203.0.113.42 port 22011 ssh2
+Aug 20 10:45:03 myserver sshd[1247]: Failed password for invalid user ubuntu from 203.0.113.42 port 22012 ssh2
