@@ -162,7 +162,7 @@ This project uses entirely fictional sample data. No real IP addresses, username
 
 **Amit Sadhu**  
 M.Sc. IT — Network Security, Gujarat University  
-GitHub: [@Venom-077](https://github.com/Venom-077)
+GitHub:@amit-sadhu https://github.com/amit-sadhu
 
 ---
 
